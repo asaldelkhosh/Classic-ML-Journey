@@ -1,5 +1,5 @@
-# useing the function from exercise 01:
-from  e011 import isPrime
+# useing the function from isPrime:
+from  isPrime import isPrime
 
 num1 = int(input("Enter number 1: "))
 num2 = int(input("Enter number 2: "))
